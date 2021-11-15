@@ -10,5 +10,6 @@ public class Test {
         System.out.println("Hello git2");
         System.out.println("Hello master");
         System.out.println("Hello hot-fix");
+        System.out.println("Remote");
     }
 }
